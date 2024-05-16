@@ -1,0 +1,16 @@
+{
+margin:0 ;
+padding;0 ;
+}
+:road{
+--cor-primaria: #000000;
+--cor-secundaria: #111111;
+--cor-tercearia: #555555;
+--cor-quartenaria: #454545;
+--cor-quinaria: #121221;
+--cor-senaria: #f1f1f1;
+}
+body{
+ background-color: var(--cor-quinaria);
+color:var(--cor-senaria)
+}
